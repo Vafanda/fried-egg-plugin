@@ -1,0 +1,5 @@
+name: FriedEggPlugin
+main: com.gmail.marcusnygren11.friedeggplugin.FriedEggPlugin
+version: 1.0
+description: A plugin made to try out Bukkit development which will be used privately. There are no commands and there probably won't be
+author: Vafanda
